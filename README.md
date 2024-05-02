@@ -12,7 +12,7 @@ This repository contains solutions to the Java programming internship tasks assi
 - Limits the number of attempts and allows for multiple rounds.
 - Displays the user's score based on attempts or rounds won.
 
-[Link to Task 1 Java file](task1/RandomNumberGuessingGame.java)
+[Link to Task 1 Java file](https://github.com/manishjr26/Codsoft_Intership/tree/main/src/task_One)
 
 ## Task 2: Marks Calculation and Grading
 
@@ -21,7 +21,8 @@ This repository contains solutions to the Java programming internship tasks assi
 - Assigns grades based on the average percentage achieved.
 - Displays total marks, average percentage, and grade to the user.
 
-[Link to Task 2 Java file](task2/MarksCalculationAndGrading.java)
+[Link to Task 2 Java file](https://github.com/manishjr26/Codsoft_Intership/tree/main/src/task_Two
+)
 
 ## Task 3: ATM Machine Simulation
 
