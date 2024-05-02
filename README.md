@@ -30,7 +30,7 @@ This repository contains solutions to the Java programming internship tasks assi
 - Creates a class to represent the user's bank account.
 - Validates user input and displays appropriate messages.
 
-[Link to Task 3 Java files](task3/)
+[Link to Task 3 Java files](https://github.com/manishjr26/Codsoft_Intership/tree/main/src/task_Three/)
 
 ## Usage
 
